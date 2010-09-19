@@ -8,6 +8,5 @@ that each parameter could contain more parameter names, if it is a complex type.
 \alias{getLastResultParameter,NCBIClass-method}
 \alias{getLastResultParameter}
 \author{Martin Schumann}
-\seealso{\code{\link[=getResultParameterByName,NCBIClass-method]{getResultParameterByName}}}
-\seealso{\code{\link[=NCBIResult-class]{NCBIResult}}}
+\seealso{\code{\link[=getResultParameterByName,NCBIClass-method]{getResultParameterByName}} \code{\link[=NCBIResult-class]{NCBIResult}}}
 \arguments{\item{NCBIObject}{The current instance of the NCBIClass.}}

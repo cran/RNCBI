@@ -3,7 +3,7 @@
 #' \tabular{ll}{
 #' Package: \tab RNCBI\cr
 #' Type: \tab Package\cr
-#' Version: \tab 0.9\cr
+#' Version: \tab 0.9.1\cr
 #' Date: \tab 2010-05-25\cr
 #' License: \tab GPL-3\cr
 #' LazyLoad: \tab yes\cr
